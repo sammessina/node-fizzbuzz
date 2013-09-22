@@ -1,5 +1,5 @@
 {
-  "author": "Kevin Coughlin <kevintcoughlin@gmail.com> (kevintcoughlin.com)",
+  "author": "Kevin Coughlin <kevintcoughlin@gmail.com>",
   "description": "Command-line function that prints the numbers from 1 to N. For multiples of three it prints “Fizz” instead of the number and for the multiples of five it prints “Buzz”. For numbers which are multiples of both three and five it prints “FizzBuzz",
   "name": "node-fizzbuzz",
   "homepage": "https://github.com/KevinTCoughlin/node-fizzbuzz",
@@ -10,8 +10,7 @@
     "interview",
     "programming"
   ],
-  "version": "0.1.0",
-  "author": "Kevin Coughlin <kevintcoughlin@gmail.com>",
+  "version": "0.1.1",
   "license": "MIT",
   "repository": {
     "type": "git",
