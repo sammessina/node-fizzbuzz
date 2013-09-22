@@ -21,14 +21,14 @@
     "test": "mocha"
   },
   "preferGlobal": "true",
+  "main": "lib/index",
   "bin": {
-    "fizzbuzz": "lib/index.js"
+    "fizzbuzz": "lib/index"
   },
   "directories": {
     "lib": "./lib"
   },
   "engines": {
     "node": ">= 0.6"
-  },
-  "main": "./lib/index"
+  }
 }
